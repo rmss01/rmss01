@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Remember to get up from the chair from time to time
+### Remember to get up from the chair from time to time.
 ### Buenas noches.
 
 <!--
